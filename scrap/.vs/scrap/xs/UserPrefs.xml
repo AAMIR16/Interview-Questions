@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{6D8CE4C1-A215-4BDB-AF66-93711AC7180D}|Default">
+  <MonoDevelop.Ide.ItemProperties.scrap PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="scrap/Program.cs">
+    <Files>
+      <File FileName="scrap/Program.cs" Line="10" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

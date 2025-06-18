@@ -1,0 +1,6 @@
+/Users/aamirab/Projects/MeetingRooms1/MeetingRooms1/bin/Debug/MeetingRooms1.exe
+/Users/aamirab/Projects/MeetingRooms1/MeetingRooms1/bin/Debug/MeetingRooms1.pdb
+/Users/aamirab/Projects/MeetingRooms1/MeetingRooms1/obj/Debug/MeetingRooms1.csproj.AssemblyReference.cache
+/Users/aamirab/Projects/MeetingRooms1/MeetingRooms1/obj/Debug/MeetingRooms1.csproj.CoreCompileInputs.cache
+/Users/aamirab/Projects/MeetingRooms1/MeetingRooms1/obj/Debug/MeetingRooms1.exe
+/Users/aamirab/Projects/MeetingRooms1/MeetingRooms1/obj/Debug/MeetingRooms1.pdb

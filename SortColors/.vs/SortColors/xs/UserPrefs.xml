@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{CBA10F7F-3726-4535-995E-9A5640B833FB}|Default">
+  <MonoDevelop.Ide.ItemProperties.SortColors PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SortColors/SortColors.cs">
+    <Files>
+      <File FileName="SortColors/Program.cs" Line="29" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/aamirab/Projects/SortColors/SortColors/Program.cs" relfile="SortColors/Program.cs" line="18" column="1" />
+      <Breakpoint file="/Users/aamirab/Projects/SortColors/SortColors/Program.cs" relfile="SortColors/Program.cs" line="29" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

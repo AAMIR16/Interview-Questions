@@ -1,0 +1,6 @@
+/Users/aamirab/Projects/PalindromeNumber/PalindromeNumber/bin/Debug/PalindromeNumber.exe
+/Users/aamirab/Projects/PalindromeNumber/PalindromeNumber/bin/Debug/PalindromeNumber.pdb
+/Users/aamirab/Projects/PalindromeNumber/PalindromeNumber/obj/Debug/PalindromeNumber.csproj.AssemblyReference.cache
+/Users/aamirab/Projects/PalindromeNumber/PalindromeNumber/obj/Debug/PalindromeNumber.csproj.CoreCompileInputs.cache
+/Users/aamirab/Projects/PalindromeNumber/PalindromeNumber/obj/Debug/PalindromeNumber.exe
+/Users/aamirab/Projects/PalindromeNumber/PalindromeNumber/obj/Debug/PalindromeNumber.pdb

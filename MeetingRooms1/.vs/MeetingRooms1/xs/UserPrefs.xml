@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E7C7C5D4-A906-45EC-8B26-EC2FABE94EDD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MeetingRooms1/Program.cs">
+    <Files>
+      <File FileName="MeetingRooms1/Program.cs" Line="9" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MeetingRooms1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

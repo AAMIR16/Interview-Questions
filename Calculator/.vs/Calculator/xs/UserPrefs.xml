@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{1EAC9BD3-D65F-49E3-BADB-DDF43C2BCF0D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Program.cs">
+    <Files>
+      <File FileName="Calculator/Program.cs" Line="62" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/aamirab/Projects/Calculator/Calculator/Program.cs" relfile="Calculator/Program.cs" line="41" column="1" />
+      <Breakpoint file="/Users/aamirab/Projects/Calculator/Calculator/Program.cs" relfile="Calculator/Program.cs" line="55" column="1" />
+      <Breakpoint file="/Users/aamirab/Projects/Calculator/Calculator/Program.cs" relfile="Calculator/Program.cs" line="78" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

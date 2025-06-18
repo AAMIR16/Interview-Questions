@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoughPage", "RoughPage\RoughPage.csproj", "{B1F20693-80C0-4E65-AD15-BE9DC2B50339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1F20693-80C0-4E65-AD15-BE9DC2B50339}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B1F20693-80C0-4E65-AD15-BE9DC2B50339}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B1F20693-80C0-4E65-AD15-BE9DC2B50339}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B1F20693-80C0-4E65-AD15-BE9DC2B50339}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7D74E64-8211-4ABE-8DE3-C40A2EC71236}
+	EndGlobalSection
+EndGlobal

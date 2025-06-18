@@ -1,0 +1,6 @@
+/Users/aamirab/Projects/SortColors/SortColors/obj/Debug/SortColors.csproj.AssemblyReference.cache
+/Users/aamirab/Projects/SortColors/SortColors/obj/Debug/SortColors.csproj.CoreCompileInputs.cache
+/Users/aamirab/Projects/SortColors/SortColors/bin/Debug/SortColors.exe
+/Users/aamirab/Projects/SortColors/SortColors/bin/Debug/SortColors.pdb
+/Users/aamirab/Projects/SortColors/SortColors/obj/Debug/SortColors.exe
+/Users/aamirab/Projects/SortColors/SortColors/obj/Debug/SortColors.pdb
