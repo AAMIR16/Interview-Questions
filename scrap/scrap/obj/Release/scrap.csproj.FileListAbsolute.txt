@@ -1,3 +1,0 @@
-/Users/aamirab/Projects/scrap/scrap/bin/Release/scrap.exe
-/Users/aamirab/Projects/scrap/scrap/obj/Release/scrap.csproj.CoreCompileInputs.cache
-/Users/aamirab/Projects/scrap/scrap/obj/Release/scrap.exe

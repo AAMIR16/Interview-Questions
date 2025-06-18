@@ -1,6 +1,0 @@
-/Users/aamirab/Projects/scrap/scrap/bin/Debug/scrap.exe
-/Users/aamirab/Projects/scrap/scrap/bin/Debug/scrap.pdb
-/Users/aamirab/Projects/scrap/scrap/obj/Debug/scrap.csproj.AssemblyReference.cache
-/Users/aamirab/Projects/scrap/scrap/obj/Debug/scrap.csproj.CoreCompileInputs.cache
-/Users/aamirab/Projects/scrap/scrap/obj/Debug/scrap.exe
-/Users/aamirab/Projects/scrap/scrap/obj/Debug/scrap.pdb
